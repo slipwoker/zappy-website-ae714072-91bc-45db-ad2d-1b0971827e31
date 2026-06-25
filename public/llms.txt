@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://zar-ae714072.zappy5.app
+https://example.com
 רוצה להמיר 10 דולר לראנד ברווח מקסימלי? גלה את הכלי שנותן לך שליטה על כל שטר, גם על 100,000 דולר לראנד. היכנס עכשיו ותתחיל לחסוך!
 
 ### תכונות
-https://zar-ae714072.zappy5.app/features
+https://example.com/features
 ממיר $10 לראנד? עוקב אחרי $100 בדולר לראנד? הפיצ&#39;רים שלנו נותנים לך דיוק מטורף גם ב-$10000 לראנד. בדוק איך זה עובד ותתאהב במספרים!
 
 ### אודות
-https://zar-ae714072.zappy5.app/about
+https://example.com/about
 למה לקוחות סומכים עלינו להמיר $10 לראנד ועד $100,000 לראנד? הכירו את החזון, האנשים והטכנולוגיה שמאחורי zar. הצטרף לאלפים שכבר מרוויחים!
 
 ### צור קשר
-https://zar-ae714072.zappy5.app/contact
+https://example.com/contact
 יש שאלה על $10 לראנד או על המרה גדולה של $100,000 לראנד? מלא טופס, שלח הודעה, וקבל מענה מהיר שיעשה לך סדר. אנחנו כאן בשבילך, פנה עוד היום!
 
 ### Products
-https://zar-ae714072.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - zar
 
 ### Product Detail
-https://zar-ae714072.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - zar
 
 ### Category
-https://zar-ae714072.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - zar
 
 ### תודה רבה | zar
-https://zar-ae714072.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך ל-zar. הודעתך התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם. למידע נוסף על המרות כגון $10 to zar, בקרו באתר.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zar-ae714072.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zar-ae714072.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zar-ae714072.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -77,8 +77,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://zar-ae714072.zappy5.app/sitemap.xml
-- Robots: https://zar-ae714072.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://zar-ae714072.zappy5.app/llms-full.txt
-- Products (JSON): https://zar-ae714072.zappy5.app/products.json
-- Products (Google Merchant RSS): https://zar-ae714072.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
